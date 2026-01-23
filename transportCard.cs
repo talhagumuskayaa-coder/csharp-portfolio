@@ -1,4 +1,4 @@
-/*// --- DEĞİŞKENLER (Variables) ---
+// --- DEĞİŞKENLER (Variables) ---
 int kartBakiye; 
 kartBakiye = 200; // Başlangıç bakiyemiz (State)
 int secim = 0; // Döngüye girebilmek için 5 olmayan bir değer verdik
@@ -81,4 +81,4 @@ while (secim != 5)
             break;
     }
     
-}*/
+}
