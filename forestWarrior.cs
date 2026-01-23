@@ -1,4 +1,4 @@
-/*int level = 1;
+int level = 1;
 int xp = 0;
 int gerekenXp = 100;
 int secim = 0;
@@ -55,4 +55,4 @@ while (true)
             Console.WriteLine("Lütfen Geçerli Bir Sayı (1-3) Tuşlayınız");
             break;
     }
-}*/
+}
