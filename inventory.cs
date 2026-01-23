@@ -1,4 +1,4 @@
-/*Console.WriteLine("--- Envanter Sistemi Başlatıldı ---");
+Console.WriteLine("--- Envanter Sistemi Başlatıldı ---");
 
 string[] envanter = new string[5];
 envanter[0] = "Kılıç";
@@ -72,4 +72,4 @@ while (true)
             Console.WriteLine("Lütfen geçerli bir seçim yapınız (1-3).");
             break;
     }
-}*/
+}
