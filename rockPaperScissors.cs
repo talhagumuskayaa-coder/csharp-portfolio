@@ -1,4 +1,4 @@
-/*Console.WriteLine("*** Taş-Kağıt-Makas Oyunu ***");
+Console.WriteLine("*** Taş-Kağıt-Makas Oyunu ***");
 
 string[] secenekler = { "Taş", "Kağıt", "Makas" };
 
@@ -91,4 +91,4 @@ else if (oyuncuSkor == 3)
     Console.WriteLine("\n------------------");
     Console.WriteLine("🟢 KAZANAN OYUNCU");
     Console.WriteLine("------------------");
-}*/
+}
