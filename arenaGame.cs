@@ -1,4 +1,4 @@
-/*Console.WriteLine("⚔️ --- GLADYATÖR ARENASINA HOŞ GELDİN --- ⚔️");
+Console.WriteLine("⚔️ --- GLADYATÖR ARENASINA HOŞ GELDİN --- ⚔️");
 Console.WriteLine("Senin Canın: 100 | Canavarın Canı: 100");
 Console.WriteLine("------------------------------------------");
 
@@ -58,4 +58,4 @@ while (oyuncuCanı > 0 && canavarCanı > 0)
         Console.WriteLine("***********************");
         break;
     }
-}*/
+}
