@@ -1,4 +1,3 @@
-﻿/*
 // BruteForce Protect System:
 
 // Değişkenleri Ayırdık
@@ -50,5 +49,4 @@ while (kalanHak > 0)
 
 Console.WriteLine("\nSistem Kapatılıyor...");
 Console.Read(); // Ekran hemen kapanmasın diye
-*/
 
