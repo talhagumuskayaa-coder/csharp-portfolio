@@ -1,4 +1,4 @@
-/*// --- PROJE: SINIF NOT ANALİZ SİSTEMİ ---
+// --- PROJE: SINIF NOT ANALİZ SİSTEMİ ---
 
 Console.WriteLine("--- SINIF NOT SİSTEMİ ---");
 
@@ -69,4 +69,4 @@ Console.WriteLine("En Düşük Not: " + enDusuk);
 
 // Rengi normale döndür.
 Console.ResetColor();
-Console.WriteLine("*----------------------*");*/
+Console.WriteLine("*----------------------*");
