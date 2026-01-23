@@ -1,6 +1,10 @@
+﻿/*
 // BruteForce Protect System:
 
 // Değişkenleri Ayırdık
+
+using System;
+
 string sistemSifresi;
 string girilenSifre;
 int kalanHak;
@@ -46,4 +50,5 @@ while (kalanHak > 0)
 
 Console.WriteLine("\nSistem Kapatılıyor...");
 Console.Read(); // Ekran hemen kapanmasın diye
+*/
 

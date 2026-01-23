@@ -1,4 +1,4 @@
-Console.WriteLine("--- 💣 Bombayı İmha Etmen Gerekiyor! ---");
+/*Console.WriteLine("--- 💣 Bombayı İmha Etmen Gerekiyor! ---");
 
 int can = 5; 
 Random rastgele = new Random();
@@ -46,4 +46,4 @@ if (can == 0)
     Console.WriteLine($"BOOOOOOOMM!! ☠️❌ Patladın! Şifre şuydu: {sayi}");
     Console.WriteLine("-------------------");
     Console.ResetColor();
-}
+}*/

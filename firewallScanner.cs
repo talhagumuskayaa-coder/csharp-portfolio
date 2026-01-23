@@ -1,4 +1,4 @@
-Console.WriteLine("--- Razor Firewall Dashboard ---");
+/*Console.WriteLine("--- Razor Firewall Dashboard ---");
 
 // 1. DÜZELTME: Diziyi tek seferde, hatasız tanımlama yöntemi
 string[] ipler = { 
@@ -42,4 +42,4 @@ foreach (string ip in ipler)
 Console.WriteLine("\n--------------------------------");
 Console.WriteLine("TARAMA TAMAMLANDI.");
 Console.WriteLine("Toplam Engellenen Tehdit: " + hackerSayisi);
-Console.WriteLine("--------------------------------");
+Console.WriteLine("--------------------------------");*/
